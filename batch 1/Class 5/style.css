@@ -1,0 +1,9 @@
+.header{
+	background-color:green;
+}
+.left_sidebar,.right_sidebar{
+	background-color:pink;
+}
+.footer{
+	background-color:red;
+}
