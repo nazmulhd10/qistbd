@@ -1,9 +1,6 @@
-.header{
-	background-color:green;
+.mycolor{
+	background-color:blue;
 }
-.left_sidebar,.right_sidebar{
-	background-color:pink;
-}
-.footer{
-	background-color:red;
+.container{
+	background-color:yellow;
 }
